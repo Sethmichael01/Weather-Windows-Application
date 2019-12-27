@@ -1,0 +1,9 @@
+C:\Users\Yurka\Downloads\howto_weather_forecast2\howto_weather_forecast2\bin\Debug\howto_weather_forecast2.exe
+C:\Users\Yurka\Downloads\howto_weather_forecast2\howto_weather_forecast2\bin\Debug\howto_weather_forecast2.pdb
+C:\Users\Yurka\Downloads\howto_weather_forecast2\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.csprojAssemblyReference.cache
+C:\Users\Yurka\Downloads\howto_weather_forecast2\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.Form1.resources
+C:\Users\Yurka\Downloads\howto_weather_forecast2\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.Properties.Resources.resources
+C:\Users\Yurka\Downloads\howto_weather_forecast2\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.csproj.GenerateResource.cache
+C:\Users\Yurka\Downloads\howto_weather_forecast2\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.csproj.CoreCompileInputs.cache
+C:\Users\Yurka\Downloads\howto_weather_forecast2\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.exe
+C:\Users\Yurka\Downloads\howto_weather_forecast2\howto_weather_forecast2\obj\Debug\howto_weather_forecast2.pdb
